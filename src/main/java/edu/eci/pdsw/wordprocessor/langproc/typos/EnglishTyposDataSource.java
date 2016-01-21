@@ -28,7 +28,7 @@ public class EnglishTyposDataSource {
     
 	/**
 	 * Obj: Verificar que la palabra ingresada esté sujeta a correcciones, por ejemplo
-	 * por un error típico de digitación identificado.	
+	 * por un error típico de digitacion identificado.	
 	 * @param word
 	 * @return
 	 */
