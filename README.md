@@ -24,8 +24,10 @@ Ahora, ensaye escribir en el texto palabras como 'parcero' o 'supersona', y esco
 
 Realice lo siguiente:
 
-1. Revise el código y haga el diagrama de clases UML.
-2. Como se observa, los fuente incluyen las clases requeridas para que la aplicación pueda trabajar con inglés en lugar de español. Analice: qué habría que hacer para que la aplicación funcione en inglés en lugar de español?. De acuerdo con esto, se puede considerar que la misma está cerrada para modificación y abierta para extensión?. Justifique su respuesta.
-3. Proponga una versión alterna del diseño, en la que se aprovechen las propiedades de polimorfismo y se aplique el patrón Fábrica Abstracta, de manera que la aplicación quede 'cerrada para modificación' y 'abierta para extensión'.
-4. Implemente su diseño, y agregue a la aplicación una opción de menú que permita seleccionar en qué idioma se va a trabajar.
-5. Describa: si se quisiera agregar soporte -por ejemplo- a la corrección de errores y de estilo del francés, qué cambios se necesitarían para hacerlo.
+1. Clone el repositorio disponible en: https://github.com/PDSW-ECI/DesignPatterns_WordProcessorExercise.git
+2. Impórtelo en NetBeans IDE.
+3. Revise el código y haga el diagrama de clases UML.
+4. Como se observa, los fuente incluyen las clases requeridas para que la aplicación pueda trabajar con inglés en lugar de español. Analice: qué habría que hacer para que la aplicación funcione en inglés en lugar de español?. De acuerdo con esto, se puede considerar que la misma está cerrada para modificación y abierta para extensión?. Justifique su respuesta.
+5. Proponga una versión alterna del diseño, en la que se aprovechen las propiedades de polimorfismo y se aplique el patrón Fábrica Abstracta, de manera que la aplicación quede 'cerrada para modificación' y 'abierta para extensión'.
+6. Implemente su diseño, y agregue a la aplicación una opción de menú que permita seleccionar en qué idioma se va a trabajar.
+7. Enumere: si se quisiera agregar soporte -por ejemplo- a la corrección de errores y de estilo del francés, qué se tendría que hacer para lograrlo?
