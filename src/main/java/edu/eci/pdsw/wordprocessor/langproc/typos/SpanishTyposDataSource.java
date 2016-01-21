@@ -30,8 +30,8 @@ public class SpanishTyposDataSource {
 	}
     
 	/**
-	 * Obj: Verificar que la palabra ingresada esté sujeta a correcciones, por ejemplo
-	 * por un error típico de digitación identificado.	
+	 * Obj: Verificar que la palabra ingresada este sujeta a correcciones, por ejemplo
+	 * por un error tipico de digitacion identificado.	
 	 * @param word
 	 * @return
 	 */
