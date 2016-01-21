@@ -14,9 +14,9 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package edu.eci.arsw.wordprocessor.langproc;
+package edu.eci.pdsw.wordprocessor.langproc;
 
-import edu.eci.arsw.wordprocessor.langproc.typos.SpanishTyposDataSource;
+import edu.eci.pdsw.wordprocessor.langproc.typos.SpanishTyposDataSource;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.Document;

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.eci.arsw.wordprocessor.view;
+package edu.eci.pdsw.wordprocessor.view;
 
-import edu.eci.arsw.wordprocessor.langproc.AutoReplaceDocumentFilter;
-import edu.eci.arsw.wordprocessor.langproc.style.SpanishStyleAutoCorrector;
-import edu.eci.arsw.wordprocessor.langproc.typos.SpanishTyposDataSource;
+import edu.eci.pdsw.wordprocessor.langproc.AutoReplaceDocumentFilter;
+import edu.eci.pdsw.wordprocessor.langproc.style.SpanishStyleAutoCorrector;
+import edu.eci.pdsw.wordprocessor.langproc.typos.SpanishTyposDataSource;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

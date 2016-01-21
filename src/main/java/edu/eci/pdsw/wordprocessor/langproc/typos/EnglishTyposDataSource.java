@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.eci.arsw.wordprocessor.langproc.typos;
+package edu.eci.pdsw.wordprocessor.langproc.typos;
 
 import java.util.LinkedHashMap;
 
@@ -11,21 +11,18 @@ import java.util.LinkedHashMap;
  *
  * @author hcadavid
  */
-public class SpanishTyposDataSource {
+public class EnglishTyposDataSource {
 
 	final static LinkedHashMap<String,String> equivalencesMap;
         
         static{		
 		equivalencesMap=new LinkedHashMap<>();		
 		
-		equivalencesMap.put("hoal", "hola");
-		equivalencesMap.put("yola", "hola");
-		equivalencesMap.put("jola", "hola");
-		equivalencesMap.put("hol", "hola");
-		equivalencesMap.put("vuenas", "buenas");
-		equivalencesMap.put("nuenas", "buenas");
-		equivalencesMap.put("huenas", "buenas");
-                equivalencesMap.put("pocible", "posible");
+		equivalencesMap.put("helo", "hello");
+		equivalencesMap.put("ello", "hello");
+		equivalencesMap.put("abd", "and");
+		equivalencesMap.put("abcess", "abscess");
+                
 				
 	}
     

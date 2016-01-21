@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package edu.eci.arsw.wordprocessor.langproc.style;
+package edu.eci.pdsw.wordprocessor.langproc.style;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -44,9 +44,5 @@ public class SpanishStyleAutoCorrector {
         }
         return output;
     }
-    
-    public static void main(String a[]){
-        System.out.println(checkAndReplace("hola parcero aaaa supersona asdasd"));
-    }
-    
+        
 }
