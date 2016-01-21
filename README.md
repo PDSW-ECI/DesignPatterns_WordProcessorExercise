@@ -1,5 +1,5 @@
 ###Escuela Colombiana de Ingeniería
-###Arquitecturas de Software – ARSW
+###Procesos de Desarrollo de Software – PDSW
 ###Laboratorio – Patrones GoF – Fábrica abstracta
 
 Software de microcontrolador para la fabricación automática de pizza.
