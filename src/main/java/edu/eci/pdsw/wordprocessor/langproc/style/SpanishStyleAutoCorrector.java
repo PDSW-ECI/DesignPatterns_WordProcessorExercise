@@ -32,7 +32,7 @@ public class SpanishStyleAutoCorrector {
 		
 		equivalencesMap.put("parcero", "amigo");
 		equivalencesMap.put("supersona", "usted");
-		equivalencesMap.put("sumercé", "usted");
+		equivalencesMap.put("sumerce", "usted");
 				
 	}
 
